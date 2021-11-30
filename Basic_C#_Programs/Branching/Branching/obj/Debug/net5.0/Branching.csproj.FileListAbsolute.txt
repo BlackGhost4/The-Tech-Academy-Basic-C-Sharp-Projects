@@ -1,0 +1,15 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Branching\Branching\bin\Debug\net5.0\Branching.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Branching\Branching\bin\Debug\net5.0\Branching.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Branching\Branching\bin\Debug\net5.0\Branching.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Branching\Branching\bin\Debug\net5.0\Branching.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Branching\Branching\bin\Debug\net5.0\Branching.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Branching\Branching\bin\Debug\net5.0\ref\Branching.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Branching\Branching\bin\Debug\net5.0\Branching.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Branching\Branching\obj\Debug\net5.0\Branching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Branching\Branching\obj\Debug\net5.0\Branching.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Branching\Branching\obj\Debug\net5.0\Branching.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Branching\Branching\obj\Debug\net5.0\Branching.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Branching\Branching\obj\Debug\net5.0\Branching.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Branching\Branching\obj\Debug\net5.0\ref\Branching.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Branching\Branching\obj\Debug\net5.0\Branching.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Branching\Branching\obj\Debug\net5.0\Branching.genruntimeconfig.cache
