@@ -1,0 +1,15 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonStep186\MathAndComparisonStep186\bin\Debug\net5.0\MathAndComparisonStep186.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonStep186\MathAndComparisonStep186\bin\Debug\net5.0\MathAndComparisonStep186.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonStep186\MathAndComparisonStep186\bin\Debug\net5.0\MathAndComparisonStep186.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonStep186\MathAndComparisonStep186\bin\Debug\net5.0\MathAndComparisonStep186.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonStep186\MathAndComparisonStep186\bin\Debug\net5.0\MathAndComparisonStep186.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonStep186\MathAndComparisonStep186\bin\Debug\net5.0\ref\MathAndComparisonStep186.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonStep186\MathAndComparisonStep186\bin\Debug\net5.0\MathAndComparisonStep186.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonStep186\MathAndComparisonStep186\obj\Debug\net5.0\MathAndComparisonStep186.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonStep186\MathAndComparisonStep186\obj\Debug\net5.0\MathAndComparisonStep186.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonStep186\MathAndComparisonStep186\obj\Debug\net5.0\MathAndComparisonStep186.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonStep186\MathAndComparisonStep186\obj\Debug\net5.0\MathAndComparisonStep186.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonStep186\MathAndComparisonStep186\obj\Debug\net5.0\MathAndComparisonStep186.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonStep186\MathAndComparisonStep186\obj\Debug\net5.0\ref\MathAndComparisonStep186.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonStep186\MathAndComparisonStep186\obj\Debug\net5.0\MathAndComparisonStep186.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonStep186\MathAndComparisonStep186\obj\Debug\net5.0\MathAndComparisonStep186.genruntimeconfig.cache
