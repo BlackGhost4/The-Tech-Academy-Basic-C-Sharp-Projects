@@ -1,0 +1,16 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\bin\Debug\net5.0\MathChallenge.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\bin\Debug\net5.0\MathChallenge.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\bin\Debug\net5.0\MathChallenge.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\bin\Debug\net5.0\MathChallenge.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\bin\Debug\net5.0\MathChallenge.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\bin\Debug\net5.0\ref\MathChallenge.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\bin\Debug\net5.0\MathChallenge.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\net5.0\MathChallenge.csproj.AssemblyReference.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\net5.0\MathChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\net5.0\MathChallenge.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\net5.0\MathChallenge.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\net5.0\MathChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\net5.0\MathChallenge.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\net5.0\ref\MathChallenge.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\net5.0\MathChallenge.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MathChallenge\MathChallenge\obj\Debug\net5.0\MathChallenge.genruntimeconfig.cache

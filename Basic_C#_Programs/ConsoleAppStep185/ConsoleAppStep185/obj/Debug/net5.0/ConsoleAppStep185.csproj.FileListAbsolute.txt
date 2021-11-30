@@ -1,0 +1,15 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppStep185\ConsoleAppStep185\bin\Debug\net5.0\ConsoleAppStep185.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppStep185\ConsoleAppStep185\bin\Debug\net5.0\ConsoleAppStep185.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppStep185\ConsoleAppStep185\bin\Debug\net5.0\ConsoleAppStep185.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppStep185\ConsoleAppStep185\bin\Debug\net5.0\ConsoleAppStep185.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppStep185\ConsoleAppStep185\bin\Debug\net5.0\ConsoleAppStep185.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppStep185\ConsoleAppStep185\bin\Debug\net5.0\ref\ConsoleAppStep185.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppStep185\ConsoleAppStep185\bin\Debug\net5.0\ConsoleAppStep185.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppStep185\ConsoleAppStep185\obj\Debug\net5.0\ConsoleAppStep185.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppStep185\ConsoleAppStep185\obj\Debug\net5.0\ConsoleAppStep185.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppStep185\ConsoleAppStep185\obj\Debug\net5.0\ConsoleAppStep185.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppStep185\ConsoleAppStep185\obj\Debug\net5.0\ConsoleAppStep185.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppStep185\ConsoleAppStep185\obj\Debug\net5.0\ConsoleAppStep185.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppStep185\ConsoleAppStep185\obj\Debug\net5.0\ref\ConsoleAppStep185.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppStep185\ConsoleAppStep185\obj\Debug\net5.0\ConsoleAppStep185.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppStep185\ConsoleAppStep185\obj\Debug\net5.0\ConsoleAppStep185.genruntimeconfig.cache
