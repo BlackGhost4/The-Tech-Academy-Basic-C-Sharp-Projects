@@ -38,6 +38,7 @@ namespace BranchingSubmission
                 {
                     //Calculate the estimated total for shipping for the package
                     decimal totalForShipping = ((packageWidth * packageHeight * packageLength) * packageWeight) / 100;
+                    //The "totalForShipping" variable was given a currency format with two decimals
                     Console.WriteLine("Your estimated total for shipping this package is: $" + string.Format("{0:0.00}", totalForShipping) + " USD");
                 }
             }
