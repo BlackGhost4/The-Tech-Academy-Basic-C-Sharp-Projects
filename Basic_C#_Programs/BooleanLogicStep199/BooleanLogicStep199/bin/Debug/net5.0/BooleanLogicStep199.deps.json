@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BooleanLogicStep199/1.0.0": {
+        "runtime": {
+          "BooleanLogicStep199.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BooleanLogicStep199/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

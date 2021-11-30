@@ -1,0 +1,16 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicStep199\BooleanLogicStep199\bin\Debug\net5.0\BooleanLogicStep199.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicStep199\BooleanLogicStep199\bin\Debug\net5.0\BooleanLogicStep199.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicStep199\BooleanLogicStep199\bin\Debug\net5.0\BooleanLogicStep199.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicStep199\BooleanLogicStep199\bin\Debug\net5.0\BooleanLogicStep199.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicStep199\BooleanLogicStep199\bin\Debug\net5.0\BooleanLogicStep199.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicStep199\BooleanLogicStep199\bin\Debug\net5.0\ref\BooleanLogicStep199.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicStep199\BooleanLogicStep199\bin\Debug\net5.0\BooleanLogicStep199.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicStep199\BooleanLogicStep199\obj\Debug\net5.0\BooleanLogicStep199.csproj.AssemblyReference.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicStep199\BooleanLogicStep199\obj\Debug\net5.0\BooleanLogicStep199.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicStep199\BooleanLogicStep199\obj\Debug\net5.0\BooleanLogicStep199.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicStep199\BooleanLogicStep199\obj\Debug\net5.0\BooleanLogicStep199.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicStep199\BooleanLogicStep199\obj\Debug\net5.0\BooleanLogicStep199.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicStep199\BooleanLogicStep199\obj\Debug\net5.0\BooleanLogicStep199.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicStep199\BooleanLogicStep199\obj\Debug\net5.0\ref\BooleanLogicStep199.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicStep199\BooleanLogicStep199\obj\Debug\net5.0\BooleanLogicStep199.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\BooleanLogicStep199\BooleanLogicStep199\obj\Debug\net5.0\BooleanLogicStep199.genruntimeconfig.cache
