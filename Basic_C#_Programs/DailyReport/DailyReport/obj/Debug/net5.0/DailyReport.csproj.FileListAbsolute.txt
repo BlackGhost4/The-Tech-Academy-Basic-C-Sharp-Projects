@@ -1,0 +1,16 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\bin\Debug\net5.0\DailyReport.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\bin\Debug\net5.0\DailyReport.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\bin\Debug\net5.0\DailyReport.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\bin\Debug\net5.0\DailyReport.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\bin\Debug\net5.0\DailyReport.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\bin\Debug\net5.0\ref\DailyReport.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\bin\Debug\net5.0\DailyReport.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\net5.0\DailyReport.csproj.AssemblyReference.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\net5.0\DailyReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\net5.0\DailyReport.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\net5.0\DailyReport.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\net5.0\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\net5.0\DailyReport.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\net5.0\ref\DailyReport.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\net5.0\DailyReport.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\net5.0\DailyReport.genruntimeconfig.cache

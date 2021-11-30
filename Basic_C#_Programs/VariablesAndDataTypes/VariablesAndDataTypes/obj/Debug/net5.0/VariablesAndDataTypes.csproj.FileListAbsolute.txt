@@ -1,0 +1,15 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net5.0\ref\VariablesAndDataTypes.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net5.0\ref\VariablesAndDataTypes.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.genruntimeconfig.cache
