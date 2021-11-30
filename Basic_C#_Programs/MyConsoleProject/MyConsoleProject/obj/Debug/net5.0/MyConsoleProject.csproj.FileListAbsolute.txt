@@ -1,0 +1,16 @@
+C:\Users\Engels Molina\Documents\Repositorios\Basic_C#_Programs\MyConsoleProject\MyConsoleProject\bin\Debug\net5.0\MyConsoleProject.exe
+C:\Users\Engels Molina\Documents\Repositorios\Basic_C#_Programs\MyConsoleProject\MyConsoleProject\bin\Debug\net5.0\MyConsoleProject.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\Basic_C#_Programs\MyConsoleProject\MyConsoleProject\bin\Debug\net5.0\MyConsoleProject.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\Basic_C#_Programs\MyConsoleProject\MyConsoleProject\bin\Debug\net5.0\MyConsoleProject.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\Basic_C#_Programs\MyConsoleProject\MyConsoleProject\bin\Debug\net5.0\MyConsoleProject.dll
+C:\Users\Engels Molina\Documents\Repositorios\Basic_C#_Programs\MyConsoleProject\MyConsoleProject\bin\Debug\net5.0\ref\MyConsoleProject.dll
+C:\Users\Engels Molina\Documents\Repositorios\Basic_C#_Programs\MyConsoleProject\MyConsoleProject\bin\Debug\net5.0\MyConsoleProject.pdb
+C:\Users\Engels Molina\Documents\Repositorios\Basic_C#_Programs\MyConsoleProject\MyConsoleProject\obj\Debug\net5.0\MyConsoleProject.csproj.AssemblyReference.cache
+C:\Users\Engels Molina\Documents\Repositorios\Basic_C#_Programs\MyConsoleProject\MyConsoleProject\obj\Debug\net5.0\MyConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\Basic_C#_Programs\MyConsoleProject\MyConsoleProject\obj\Debug\net5.0\MyConsoleProject.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\Basic_C#_Programs\MyConsoleProject\MyConsoleProject\obj\Debug\net5.0\MyConsoleProject.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\Basic_C#_Programs\MyConsoleProject\MyConsoleProject\obj\Debug\net5.0\MyConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\Basic_C#_Programs\MyConsoleProject\MyConsoleProject\obj\Debug\net5.0\MyConsoleProject.dll
+C:\Users\Engels Molina\Documents\Repositorios\Basic_C#_Programs\MyConsoleProject\MyConsoleProject\obj\Debug\net5.0\ref\MyConsoleProject.dll
+C:\Users\Engels Molina\Documents\Repositorios\Basic_C#_Programs\MyConsoleProject\MyConsoleProject\obj\Debug\net5.0\MyConsoleProject.pdb
+C:\Users\Engels Molina\Documents\Repositorios\Basic_C#_Programs\MyConsoleProject\MyConsoleProject\obj\Debug\net5.0\MyConsoleProject.genruntimeconfig.cache
