@@ -1,0 +1,15 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignmentStep233\StringAssignmentStep233\bin\Debug\net5.0\StringAssignmentStep233.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignmentStep233\StringAssignmentStep233\bin\Debug\net5.0\StringAssignmentStep233.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignmentStep233\StringAssignmentStep233\bin\Debug\net5.0\StringAssignmentStep233.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignmentStep233\StringAssignmentStep233\bin\Debug\net5.0\StringAssignmentStep233.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignmentStep233\StringAssignmentStep233\bin\Debug\net5.0\StringAssignmentStep233.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignmentStep233\StringAssignmentStep233\bin\Debug\net5.0\ref\StringAssignmentStep233.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignmentStep233\StringAssignmentStep233\bin\Debug\net5.0\StringAssignmentStep233.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignmentStep233\StringAssignmentStep233\obj\Debug\net5.0\StringAssignmentStep233.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignmentStep233\StringAssignmentStep233\obj\Debug\net5.0\StringAssignmentStep233.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignmentStep233\StringAssignmentStep233\obj\Debug\net5.0\StringAssignmentStep233.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignmentStep233\StringAssignmentStep233\obj\Debug\net5.0\StringAssignmentStep233.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignmentStep233\StringAssignmentStep233\obj\Debug\net5.0\StringAssignmentStep233.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignmentStep233\StringAssignmentStep233\obj\Debug\net5.0\ref\StringAssignmentStep233.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignmentStep233\StringAssignmentStep233\obj\Debug\net5.0\StringAssignmentStep233.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\StringAssignmentStep233\StringAssignmentStep233\obj\Debug\net5.0\StringAssignmentStep233.genruntimeconfig.cache
