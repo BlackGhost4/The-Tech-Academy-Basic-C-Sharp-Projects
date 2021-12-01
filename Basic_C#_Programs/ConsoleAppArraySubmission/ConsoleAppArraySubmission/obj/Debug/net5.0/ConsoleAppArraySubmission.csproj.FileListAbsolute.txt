@@ -13,3 +13,4 @@ C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Pro
 C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\net5.0\ref\ConsoleAppArraySubmission.dll
 C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\net5.0\ConsoleAppArraySubmission.pdb
 C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\net5.0\ConsoleAppArraySubmission.genruntimeconfig.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\net5.0\ConsoleAppArraySubmission.csproj.AssemblyReference.cache

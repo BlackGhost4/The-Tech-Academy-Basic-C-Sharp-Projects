@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ConsoleAppArraySubmission
 {
@@ -9,13 +10,23 @@ namespace ConsoleAppArraySubmission
             //Arrays are initialized with 8 values each
             string[] colorArray = { "Yellow", "Red", "Black", "Blue", "White", "Orange", "Purple", "Green" };
             int[] numberArray = { 5, 4, 9, 67, 1404, 3923, 2343, 10 };
+            List<string> things = new List<string>();
+            things.Add("Car");
+            things.Add("Computer");
+            things.Add("Mouse");
+            things.Add("Screen");
+            things.Add("Pencil");
+            things.Add("Glass");
+            things.Add("Chair");
+            things.Add("Keyboard");
             //The variable "exitLoop", will store the data entered by the user
             string exitLoop = "";
             int index = 0;
 
             //Print the instructions in the console
             Console.WriteLine("Welcome to Console App Array Submission");
-            Console.WriteLine("There are two arrangements with 8 elements each. The first array is of \"colors\" and the second is of \"numbers\"");
+            Console.WriteLine("\nThere are two arrangements with 8 elements each. The first array is of \"colors\" and the second is of \"numbers\"");
+            Console.WriteLine("\nAlso, there is a list of \"things\" with 8 items.");
             do
             {
                 //The data is requested, for finish the program the user must type "exit"
@@ -30,6 +41,7 @@ namespace ConsoleAppArraySubmission
                         //If it is true, it is printed the value in the position of the arrays
                         Console.WriteLine("The value of the color in the position " + index + ", is: " + colorArray[index]);
                         Console.WriteLine("The value of the number in the position " + index + ", is: " + numberArray[index]);
+                        Console.WriteLine("The value in the list of things that is in position " + index + ", is: " + things[index]);
                     }
                     else
                     {
