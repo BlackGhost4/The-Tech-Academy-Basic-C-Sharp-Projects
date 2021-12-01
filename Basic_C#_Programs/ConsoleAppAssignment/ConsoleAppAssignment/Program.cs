@@ -55,6 +55,10 @@ namespace ConsoleAppAssignment
                             break;
                     }
                 }
+                else
+                {
+                    Console.WriteLine("**** THE OPTION IS NOT VALID!!!! ****");
+                }
                 numberIterations++;
             }
         }
