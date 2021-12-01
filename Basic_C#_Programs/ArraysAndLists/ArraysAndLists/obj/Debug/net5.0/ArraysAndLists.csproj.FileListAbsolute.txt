@@ -1,0 +1,16 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\net5.0\ArraysAndLists.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\net5.0\ArraysAndLists.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\net5.0\ArraysAndLists.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\net5.0\ArraysAndLists.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\net5.0\ArraysAndLists.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\net5.0\ref\ArraysAndLists.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\bin\Debug\net5.0\ArraysAndLists.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net5.0\ArraysAndLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net5.0\ArraysAndLists.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net5.0\ArraysAndLists.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net5.0\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net5.0\ArraysAndLists.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net5.0\ref\ArraysAndLists.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net5.0\ArraysAndLists.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net5.0\ArraysAndLists.genruntimeconfig.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ArraysAndLists\ArraysAndLists\obj\Debug\net5.0\ArraysAndLists.csproj.AssemblyReference.cache
