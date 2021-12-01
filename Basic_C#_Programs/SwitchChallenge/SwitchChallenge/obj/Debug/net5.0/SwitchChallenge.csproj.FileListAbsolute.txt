@@ -1,0 +1,15 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\bin\Debug\net5.0\SwitchChallenge.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\bin\Debug\net5.0\SwitchChallenge.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\bin\Debug\net5.0\SwitchChallenge.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\bin\Debug\net5.0\SwitchChallenge.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\bin\Debug\net5.0\SwitchChallenge.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\bin\Debug\net5.0\ref\SwitchChallenge.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\bin\Debug\net5.0\SwitchChallenge.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\obj\Debug\net5.0\SwitchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\obj\Debug\net5.0\SwitchChallenge.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\obj\Debug\net5.0\SwitchChallenge.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\obj\Debug\net5.0\SwitchChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\obj\Debug\net5.0\SwitchChallenge.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\obj\Debug\net5.0\ref\SwitchChallenge.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\obj\Debug\net5.0\SwitchChallenge.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\SwitchChallenge\SwitchChallenge\obj\Debug\net5.0\SwitchChallenge.genruntimeconfig.cache
