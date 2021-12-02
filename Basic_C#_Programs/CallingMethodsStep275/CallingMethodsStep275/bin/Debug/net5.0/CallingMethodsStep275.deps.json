@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CallingMethodsStep275/1.0.0": {
+        "runtime": {
+          "CallingMethodsStep275.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CallingMethodsStep275/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
