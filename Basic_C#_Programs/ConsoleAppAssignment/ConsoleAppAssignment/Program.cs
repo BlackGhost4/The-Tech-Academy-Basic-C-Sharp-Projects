@@ -13,9 +13,16 @@ namespace ConsoleAppAssignment
             //or 7 times when the condition is "<"
             int numberIterations = 1;
 
+            //************************************************************************
+            //**                 PART TWO                                           **
             //while (true) ******** This instruction creates an infinite loop ********
+            //************************************************************************
 
+            //****************************************************************************************************************************
+            //**                 PART THREE                                                                                             **
             //The next instruction end the program when the user typed "exit" or the program has been repeated 8 times (<=) or 7 times (<)
+            //NOTE: Just only the operadot < is changed by <= or vice versa
+            //****************************************************************************************************************************
             while (option != 5 && numberIterations <= 8)
             {
                 //Print a principal menu
@@ -164,7 +171,9 @@ namespace ConsoleAppAssignment
                 else if (indices.Count == 1)
                 {
                     //print a message in the console
-                    Console.WriteLine("Sorry, try again :-( color does not repeat twice and was found only once");
+                    //************************************************************************************************************************************
+                    //To solve part 5, add the next statement:    but this is in the index " + indices[0]
+                    Console.WriteLine("Sorry, try again :-( color does not repeat twice and was found only once, but this is in the index " + indices[0]);
                     //clear the list
                     indices.Clear();
                 }
