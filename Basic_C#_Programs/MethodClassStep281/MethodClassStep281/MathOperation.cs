@@ -11,9 +11,10 @@ namespace MethodClassStep281
     {
         //The method "Multiplication" is created
         //This method has a two parameters, the second parameter will store the result of the mathematical operation numberA * 4
-        public void Multiplication(int numberA, out int numberB)
+        public void Multiplication(int numberA, int numberB)
         {
-            numberB = numberA * 4;
+            int auxNumber = numberA * 4;
+            Console.WriteLine(numberB);
         }
     }
 }

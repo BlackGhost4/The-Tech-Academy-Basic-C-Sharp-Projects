@@ -9,12 +9,11 @@ namespace MethodClassStep281
             //Class "MathOperation" is instantiated
             MathOperation mathOperation = new MathOperation();
             //For purpose of this exercise, the variables numberA and numberB are created
-            int numberA = 10, numberB = 0;
-            //Call the method "Multiplication" with the two parameters
-            mathOperation.Multiplication(numberA: numberA, numberB: out numberB);
-            //The variable "numberB" will store the result of the mathematical operation
-            //Print the value of "numberB" on the console
-            Console.WriteLine("The mathematical operation " + numberA + " * 4 = {0}", numberB);
+            int numberA = 10, numberB = 6;
+            //Call the method in the class, passing in two numbers
+            mathOperation.Multiplication(56, 23);
+            //Call the method "Multiplication" with the two parameters, specifying the parameters by name
+            mathOperation.Multiplication(numberA: numberA, numberB: numberB);
             Console.ReadLine();
         }
     }
