@@ -1,0 +1,15 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MainMethodStep279\MainMethodStep279\bin\Debug\net5.0\MainMethodStep279.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MainMethodStep279\MainMethodStep279\bin\Debug\net5.0\MainMethodStep279.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MainMethodStep279\MainMethodStep279\bin\Debug\net5.0\MainMethodStep279.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MainMethodStep279\MainMethodStep279\bin\Debug\net5.0\MainMethodStep279.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MainMethodStep279\MainMethodStep279\bin\Debug\net5.0\MainMethodStep279.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MainMethodStep279\MainMethodStep279\bin\Debug\net5.0\ref\MainMethodStep279.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MainMethodStep279\MainMethodStep279\bin\Debug\net5.0\MainMethodStep279.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MainMethodStep279\MainMethodStep279\obj\Debug\net5.0\MainMethodStep279.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MainMethodStep279\MainMethodStep279\obj\Debug\net5.0\MainMethodStep279.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MainMethodStep279\MainMethodStep279\obj\Debug\net5.0\MainMethodStep279.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MainMethodStep279\MainMethodStep279\obj\Debug\net5.0\MainMethodStep279.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MainMethodStep279\MainMethodStep279\obj\Debug\net5.0\MainMethodStep279.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MainMethodStep279\MainMethodStep279\obj\Debug\net5.0\ref\MainMethodStep279.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MainMethodStep279\MainMethodStep279\obj\Debug\net5.0\MainMethodStep279.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MainMethodStep279\MainMethodStep279\obj\Debug\net5.0\MainMethodStep279.genruntimeconfig.cache
