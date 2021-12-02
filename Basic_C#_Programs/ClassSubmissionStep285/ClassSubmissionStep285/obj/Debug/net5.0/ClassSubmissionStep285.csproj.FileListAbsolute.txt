@@ -1,0 +1,16 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ClassSubmissionStep285\ClassSubmissionStep285\bin\Debug\net5.0\ClassSubmissionStep285.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ClassSubmissionStep285\ClassSubmissionStep285\bin\Debug\net5.0\ClassSubmissionStep285.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ClassSubmissionStep285\ClassSubmissionStep285\bin\Debug\net5.0\ClassSubmissionStep285.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ClassSubmissionStep285\ClassSubmissionStep285\bin\Debug\net5.0\ClassSubmissionStep285.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ClassSubmissionStep285\ClassSubmissionStep285\bin\Debug\net5.0\ClassSubmissionStep285.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ClassSubmissionStep285\ClassSubmissionStep285\bin\Debug\net5.0\ref\ClassSubmissionStep285.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ClassSubmissionStep285\ClassSubmissionStep285\bin\Debug\net5.0\ClassSubmissionStep285.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ClassSubmissionStep285\ClassSubmissionStep285\obj\Debug\net5.0\ClassSubmissionStep285.csproj.AssemblyReference.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ClassSubmissionStep285\ClassSubmissionStep285\obj\Debug\net5.0\ClassSubmissionStep285.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ClassSubmissionStep285\ClassSubmissionStep285\obj\Debug\net5.0\ClassSubmissionStep285.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ClassSubmissionStep285\ClassSubmissionStep285\obj\Debug\net5.0\ClassSubmissionStep285.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ClassSubmissionStep285\ClassSubmissionStep285\obj\Debug\net5.0\ClassSubmissionStep285.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ClassSubmissionStep285\ClassSubmissionStep285\obj\Debug\net5.0\ClassSubmissionStep285.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ClassSubmissionStep285\ClassSubmissionStep285\obj\Debug\net5.0\ref\ClassSubmissionStep285.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ClassSubmissionStep285\ClassSubmissionStep285\obj\Debug\net5.0\ClassSubmissionStep285.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ClassSubmissionStep285\ClassSubmissionStep285\obj\Debug\net5.0\ClassSubmissionStep285.genruntimeconfig.cache
