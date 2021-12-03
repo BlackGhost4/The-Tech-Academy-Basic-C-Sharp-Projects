@@ -9,11 +9,11 @@ namespace ClassSubmissionStep285
             try
             {
                 /***************************************************************************************
-                 * The following line was commented, because the class was made static and the static classes are not instantiated
-                
-                ExampleClass exampleClass = new ExampleClass();
+                 * The class ExampleClass is instantiated
                 *****************************************************************************************/
-
+                ExampleClass exampleClass = new ExampleClass();
+                
+                //Ask to user a number
                 Console.WriteLine("Press type a whole number");
                 /****************************************************************************************
                 * The Next Line was comented, because the conversion from string to integer is done in a method of the class
@@ -21,15 +21,24 @@ namespace ClassSubmissionStep285
                 int number = Convert.ToInt32(Console.ReadLine());
                 ******************************************************************************************/
                 string number = Console.ReadLine();
-                int numberB = 0;
+                int numberB = 0; //For the class "ExampleClass"
+                int numberC = 0; //Fot the static class "ExampleClassStatic"
 
                 /***************************************************************************************
-                 * The following line was commented, because the class was made static 
-                
-                exampleClass.Divide(number, out numberB);
+                 * Call the method Divide of the clas "ExampleClass" 
                 ****************************************************************************************/
-                ExampleClass.Divide(number, out numberB); //Call the method "Divide" of the static class "ExampleClass"
-                //If the value of numberB is -1, then the data entered by the user cannot divided by two
+                exampleClass.Divide(number, out numberB); //Store the result in the variable "numberB"
+
+                /***************************************************************************************
+                 * Call the method Divide of thestatic class "ExampleClassStatic"
+                ****************************************************************************************/
+                ExampleClassStatic.Divide(number, out numberC); //Store the result in the variable "numberC"
+
+                /******************************************************************************************
+                Result of the Class ExampleClass
+                If the value of numberB is -1, then the data entered by the user cannot divided by two
+                *******************************************************************************************/
+                Console.WriteLine("\nResult of the class \"ExampleClass\"");
                 if (numberB == -1)
                 {
                     //show the message that the number cannot divided by two
@@ -39,6 +48,22 @@ namespace ClassSubmissionStep285
                 {
                     //Otherwise, print the result on the console
                     Console.WriteLine("The number " + number + " divided by 2 is equal to " + numberB);
+                }
+
+                /******************************************************************************************
+                Result of the Class ExampleClassStatic
+                If the value of numberB is -1, then the data entered by the user cannot divided by two
+                *******************************************************************************************/
+                Console.WriteLine("\nResult of the static class \"ExampleClassStatic\"");
+                if (numberC == -1)
+                {
+                    //show the message that the number cannot divided by two
+                    Console.WriteLine("The number " + number + " cannot be divided by 2");
+                }
+                else
+                {
+                    //Otherwise, print the result on the console
+                    Console.WriteLine("The number " + number + " divided by 2 is equal to " + numberC);
                 }
             }
             //If exist an exception, is catched and print the error message on the console

@@ -6,16 +6,14 @@ using System.Threading.Tasks;
 
 namespace ClassSubmissionStep285
 {
-    //******************************************************************************
-    //The class "ExampleClass" is created
-    //******************************************************************************
-    class ExampleClass
+    //The static class "ExampleClassStatic" is created
+    public static class ExampleClassStatic
     {
         /************************************************************************
          * As the class is static, the method must be static as too
          * Acept a whole number and is stored in the variable numberA
          * **********************************************************************/
-        public void Divide(int numberA, out int numberB)
+        public static void Divide(int numberA, out int numberB)
         {
             //If the number can be divided by 2, the mathematical operation is done
             if ((numberA % 2) == 0)
@@ -32,7 +30,7 @@ namespace ClassSubmissionStep285
         /************************************************************************
          * As the class is static, the method must be static as well
          * **********************************************************************/
-        public void Divide(string numberA, out int numberB)
+        public static void Divide(string numberA, out int numberB)
         {
             //The variable numberA (string) cast to Integer and the Divide method is called with that value
             Divide(Convert.ToInt32(numberA), out numberB);
