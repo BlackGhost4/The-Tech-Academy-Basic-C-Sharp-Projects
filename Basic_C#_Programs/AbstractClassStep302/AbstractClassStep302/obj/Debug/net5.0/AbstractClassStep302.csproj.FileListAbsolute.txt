@@ -1,0 +1,16 @@
+C:\Users\Engels Molina\source\repos\AbstractClassStep302\AbstractClassStep302\bin\Debug\net5.0\AbstractClassStep302.exe
+C:\Users\Engels Molina\source\repos\AbstractClassStep302\AbstractClassStep302\bin\Debug\net5.0\AbstractClassStep302.deps.json
+C:\Users\Engels Molina\source\repos\AbstractClassStep302\AbstractClassStep302\bin\Debug\net5.0\AbstractClassStep302.runtimeconfig.json
+C:\Users\Engels Molina\source\repos\AbstractClassStep302\AbstractClassStep302\bin\Debug\net5.0\AbstractClassStep302.runtimeconfig.dev.json
+C:\Users\Engels Molina\source\repos\AbstractClassStep302\AbstractClassStep302\bin\Debug\net5.0\AbstractClassStep302.dll
+C:\Users\Engels Molina\source\repos\AbstractClassStep302\AbstractClassStep302\bin\Debug\net5.0\ref\AbstractClassStep302.dll
+C:\Users\Engels Molina\source\repos\AbstractClassStep302\AbstractClassStep302\bin\Debug\net5.0\AbstractClassStep302.pdb
+C:\Users\Engels Molina\source\repos\AbstractClassStep302\AbstractClassStep302\obj\Debug\net5.0\AbstractClassStep302.csproj.AssemblyReference.cache
+C:\Users\Engels Molina\source\repos\AbstractClassStep302\AbstractClassStep302\obj\Debug\net5.0\AbstractClassStep302.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\source\repos\AbstractClassStep302\AbstractClassStep302\obj\Debug\net5.0\AbstractClassStep302.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\source\repos\AbstractClassStep302\AbstractClassStep302\obj\Debug\net5.0\AbstractClassStep302.AssemblyInfo.cs
+C:\Users\Engels Molina\source\repos\AbstractClassStep302\AbstractClassStep302\obj\Debug\net5.0\AbstractClassStep302.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\source\repos\AbstractClassStep302\AbstractClassStep302\obj\Debug\net5.0\AbstractClassStep302.dll
+C:\Users\Engels Molina\source\repos\AbstractClassStep302\AbstractClassStep302\obj\Debug\net5.0\ref\AbstractClassStep302.dll
+C:\Users\Engels Molina\source\repos\AbstractClassStep302\AbstractClassStep302\obj\Debug\net5.0\AbstractClassStep302.pdb
+C:\Users\Engels Molina\source\repos\AbstractClassStep302\AbstractClassStep302\obj\Debug\net5.0\AbstractClassStep302.genruntimeconfig.cache
