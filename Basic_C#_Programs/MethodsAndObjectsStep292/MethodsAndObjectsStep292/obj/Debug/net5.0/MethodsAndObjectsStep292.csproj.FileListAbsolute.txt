@@ -1,0 +1,15 @@
+C:\Users\Engels Molina\source\repos\MethodsAndObjectsStep292\MethodsAndObjectsStep292\bin\Debug\net5.0\MethodsAndObjectsStep292.exe
+C:\Users\Engels Molina\source\repos\MethodsAndObjectsStep292\MethodsAndObjectsStep292\bin\Debug\net5.0\MethodsAndObjectsStep292.deps.json
+C:\Users\Engels Molina\source\repos\MethodsAndObjectsStep292\MethodsAndObjectsStep292\bin\Debug\net5.0\MethodsAndObjectsStep292.runtimeconfig.json
+C:\Users\Engels Molina\source\repos\MethodsAndObjectsStep292\MethodsAndObjectsStep292\bin\Debug\net5.0\MethodsAndObjectsStep292.runtimeconfig.dev.json
+C:\Users\Engels Molina\source\repos\MethodsAndObjectsStep292\MethodsAndObjectsStep292\bin\Debug\net5.0\MethodsAndObjectsStep292.dll
+C:\Users\Engels Molina\source\repos\MethodsAndObjectsStep292\MethodsAndObjectsStep292\bin\Debug\net5.0\ref\MethodsAndObjectsStep292.dll
+C:\Users\Engels Molina\source\repos\MethodsAndObjectsStep292\MethodsAndObjectsStep292\bin\Debug\net5.0\MethodsAndObjectsStep292.pdb
+C:\Users\Engels Molina\source\repos\MethodsAndObjectsStep292\MethodsAndObjectsStep292\obj\Debug\net5.0\MethodsAndObjectsStep292.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\source\repos\MethodsAndObjectsStep292\MethodsAndObjectsStep292\obj\Debug\net5.0\MethodsAndObjectsStep292.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\source\repos\MethodsAndObjectsStep292\MethodsAndObjectsStep292\obj\Debug\net5.0\MethodsAndObjectsStep292.AssemblyInfo.cs
+C:\Users\Engels Molina\source\repos\MethodsAndObjectsStep292\MethodsAndObjectsStep292\obj\Debug\net5.0\MethodsAndObjectsStep292.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\source\repos\MethodsAndObjectsStep292\MethodsAndObjectsStep292\obj\Debug\net5.0\MethodsAndObjectsStep292.dll
+C:\Users\Engels Molina\source\repos\MethodsAndObjectsStep292\MethodsAndObjectsStep292\obj\Debug\net5.0\ref\MethodsAndObjectsStep292.dll
+C:\Users\Engels Molina\source\repos\MethodsAndObjectsStep292\MethodsAndObjectsStep292\obj\Debug\net5.0\MethodsAndObjectsStep292.pdb
+C:\Users\Engels Molina\source\repos\MethodsAndObjectsStep292\MethodsAndObjectsStep292\obj\Debug\net5.0\MethodsAndObjectsStep292.genruntimeconfig.cache
