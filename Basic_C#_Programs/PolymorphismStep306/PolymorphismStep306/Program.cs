@@ -6,8 +6,10 @@ namespace PolymorphismStep306
     {
         static void Main(string[] args)
         {
-            IQuittable quittable = new();
-
+            //Create a Employee object
+            Employee employee = new Employee();
+            employee.Quit();
+            Console.ReadLine();
         }
     }
 }

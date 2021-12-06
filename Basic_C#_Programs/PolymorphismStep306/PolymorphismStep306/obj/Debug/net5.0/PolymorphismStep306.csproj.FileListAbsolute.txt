@@ -1,0 +1,16 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolymorphismStep306\PolymorphismStep306\bin\Debug\net5.0\PolymorphismStep306.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolymorphismStep306\PolymorphismStep306\bin\Debug\net5.0\PolymorphismStep306.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolymorphismStep306\PolymorphismStep306\bin\Debug\net5.0\PolymorphismStep306.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolymorphismStep306\PolymorphismStep306\bin\Debug\net5.0\PolymorphismStep306.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolymorphismStep306\PolymorphismStep306\bin\Debug\net5.0\PolymorphismStep306.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolymorphismStep306\PolymorphismStep306\bin\Debug\net5.0\ref\PolymorphismStep306.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolymorphismStep306\PolymorphismStep306\bin\Debug\net5.0\PolymorphismStep306.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolymorphismStep306\PolymorphismStep306\obj\Debug\net5.0\PolymorphismStep306.csproj.AssemblyReference.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolymorphismStep306\PolymorphismStep306\obj\Debug\net5.0\PolymorphismStep306.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolymorphismStep306\PolymorphismStep306\obj\Debug\net5.0\PolymorphismStep306.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolymorphismStep306\PolymorphismStep306\obj\Debug\net5.0\PolymorphismStep306.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolymorphismStep306\PolymorphismStep306\obj\Debug\net5.0\PolymorphismStep306.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolymorphismStep306\PolymorphismStep306\obj\Debug\net5.0\PolymorphismStep306.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolymorphismStep306\PolymorphismStep306\obj\Debug\net5.0\ref\PolymorphismStep306.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolymorphismStep306\PolymorphismStep306\obj\Debug\net5.0\PolymorphismStep306.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\PolymorphismStep306\PolymorphismStep306\obj\Debug\net5.0\PolymorphismStep306.genruntimeconfig.cache

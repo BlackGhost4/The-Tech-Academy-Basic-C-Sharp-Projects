@@ -9,15 +9,10 @@ namespace PolymorphismStep306
     //The class "Employee" is created, and inherit from the "Person" class
     public class Employee : Person, IQuittable
     {
-        //The virtual method of the "Person" class is implemented in the "Employee" class
-        public override void SayName()
-        {
-            base.SayName();
-        }
-
+        //Implementation of IQuittable interface
         public void Quit()
         {
-            Console.WriteLine("Quit()");
+            Console.WriteLine("Method Quit()");
         }
     }
 }
