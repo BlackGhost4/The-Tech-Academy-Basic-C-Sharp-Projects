@@ -1,0 +1,16 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperatorStep313\OverloadOperatorStep313\bin\Debug\net5.0\OverloadOperatorStep313.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperatorStep313\OverloadOperatorStep313\bin\Debug\net5.0\OverloadOperatorStep313.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperatorStep313\OverloadOperatorStep313\bin\Debug\net5.0\OverloadOperatorStep313.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperatorStep313\OverloadOperatorStep313\bin\Debug\net5.0\OverloadOperatorStep313.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperatorStep313\OverloadOperatorStep313\bin\Debug\net5.0\OverloadOperatorStep313.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperatorStep313\OverloadOperatorStep313\bin\Debug\net5.0\ref\OverloadOperatorStep313.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperatorStep313\OverloadOperatorStep313\bin\Debug\net5.0\OverloadOperatorStep313.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperatorStep313\OverloadOperatorStep313\obj\Debug\net5.0\OverloadOperatorStep313.csproj.AssemblyReference.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperatorStep313\OverloadOperatorStep313\obj\Debug\net5.0\OverloadOperatorStep313.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperatorStep313\OverloadOperatorStep313\obj\Debug\net5.0\OverloadOperatorStep313.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperatorStep313\OverloadOperatorStep313\obj\Debug\net5.0\OverloadOperatorStep313.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperatorStep313\OverloadOperatorStep313\obj\Debug\net5.0\OverloadOperatorStep313.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperatorStep313\OverloadOperatorStep313\obj\Debug\net5.0\OverloadOperatorStep313.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperatorStep313\OverloadOperatorStep313\obj\Debug\net5.0\ref\OverloadOperatorStep313.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperatorStep313\OverloadOperatorStep313\obj\Debug\net5.0\OverloadOperatorStep313.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperatorStep313\OverloadOperatorStep313\obj\Debug\net5.0\OverloadOperatorStep313.genruntimeconfig.cache
