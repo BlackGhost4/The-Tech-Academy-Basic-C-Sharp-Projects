@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ParsingEnumsStep324/1.0.0": {
+        "runtime": {
+          "ParsingEnumsStep324.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParsingEnumsStep324/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

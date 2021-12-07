@@ -1,0 +1,16 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParsingEnumsStep324\ParsingEnumsStep324\bin\Debug\net5.0\ParsingEnumsStep324.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParsingEnumsStep324\ParsingEnumsStep324\bin\Debug\net5.0\ParsingEnumsStep324.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParsingEnumsStep324\ParsingEnumsStep324\bin\Debug\net5.0\ParsingEnumsStep324.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParsingEnumsStep324\ParsingEnumsStep324\bin\Debug\net5.0\ParsingEnumsStep324.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParsingEnumsStep324\ParsingEnumsStep324\bin\Debug\net5.0\ParsingEnumsStep324.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParsingEnumsStep324\ParsingEnumsStep324\bin\Debug\net5.0\ref\ParsingEnumsStep324.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParsingEnumsStep324\ParsingEnumsStep324\bin\Debug\net5.0\ParsingEnumsStep324.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParsingEnumsStep324\ParsingEnumsStep324\obj\Debug\net5.0\ParsingEnumsStep324.csproj.AssemblyReference.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParsingEnumsStep324\ParsingEnumsStep324\obj\Debug\net5.0\ParsingEnumsStep324.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParsingEnumsStep324\ParsingEnumsStep324\obj\Debug\net5.0\ParsingEnumsStep324.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParsingEnumsStep324\ParsingEnumsStep324\obj\Debug\net5.0\ParsingEnumsStep324.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParsingEnumsStep324\ParsingEnumsStep324\obj\Debug\net5.0\ParsingEnumsStep324.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParsingEnumsStep324\ParsingEnumsStep324\obj\Debug\net5.0\ParsingEnumsStep324.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParsingEnumsStep324\ParsingEnumsStep324\obj\Debug\net5.0\ref\ParsingEnumsStep324.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParsingEnumsStep324\ParsingEnumsStep324\obj\Debug\net5.0\ParsingEnumsStep324.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ParsingEnumsStep324\ParsingEnumsStep324\obj\Debug\net5.0\ParsingEnumsStep324.genruntimeconfig.cache
