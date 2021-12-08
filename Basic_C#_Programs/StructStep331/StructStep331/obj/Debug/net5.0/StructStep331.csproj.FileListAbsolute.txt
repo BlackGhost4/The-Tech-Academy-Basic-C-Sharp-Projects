@@ -1,0 +1,16 @@
+C:\Users\Engels Molina\source\repos\StructStep331\StructStep331\bin\Debug\net5.0\StructStep331.exe
+C:\Users\Engels Molina\source\repos\StructStep331\StructStep331\bin\Debug\net5.0\StructStep331.deps.json
+C:\Users\Engels Molina\source\repos\StructStep331\StructStep331\bin\Debug\net5.0\StructStep331.runtimeconfig.json
+C:\Users\Engels Molina\source\repos\StructStep331\StructStep331\bin\Debug\net5.0\StructStep331.runtimeconfig.dev.json
+C:\Users\Engels Molina\source\repos\StructStep331\StructStep331\bin\Debug\net5.0\StructStep331.dll
+C:\Users\Engels Molina\source\repos\StructStep331\StructStep331\bin\Debug\net5.0\ref\StructStep331.dll
+C:\Users\Engels Molina\source\repos\StructStep331\StructStep331\bin\Debug\net5.0\StructStep331.pdb
+C:\Users\Engels Molina\source\repos\StructStep331\StructStep331\obj\Debug\net5.0\StructStep331.csproj.AssemblyReference.cache
+C:\Users\Engels Molina\source\repos\StructStep331\StructStep331\obj\Debug\net5.0\StructStep331.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\source\repos\StructStep331\StructStep331\obj\Debug\net5.0\StructStep331.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\source\repos\StructStep331\StructStep331\obj\Debug\net5.0\StructStep331.AssemblyInfo.cs
+C:\Users\Engels Molina\source\repos\StructStep331\StructStep331\obj\Debug\net5.0\StructStep331.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\source\repos\StructStep331\StructStep331\obj\Debug\net5.0\StructStep331.dll
+C:\Users\Engels Molina\source\repos\StructStep331\StructStep331\obj\Debug\net5.0\ref\StructStep331.dll
+C:\Users\Engels Molina\source\repos\StructStep331\StructStep331\obj\Debug\net5.0\StructStep331.pdb
+C:\Users\Engels Molina\source\repos\StructStep331\StructStep331\obj\Debug\net5.0\StructStep331.genruntimeconfig.cache
