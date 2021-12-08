@@ -1,0 +1,16 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaStep337\LambdaStep337\bin\Debug\net5.0\LambdaStep337.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaStep337\LambdaStep337\bin\Debug\net5.0\LambdaStep337.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaStep337\LambdaStep337\bin\Debug\net5.0\LambdaStep337.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaStep337\LambdaStep337\bin\Debug\net5.0\LambdaStep337.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaStep337\LambdaStep337\bin\Debug\net5.0\LambdaStep337.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaStep337\LambdaStep337\bin\Debug\net5.0\ref\LambdaStep337.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaStep337\LambdaStep337\bin\Debug\net5.0\LambdaStep337.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaStep337\LambdaStep337\obj\Debug\net5.0\LambdaStep337.csproj.AssemblyReference.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaStep337\LambdaStep337\obj\Debug\net5.0\LambdaStep337.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaStep337\LambdaStep337\obj\Debug\net5.0\LambdaStep337.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaStep337\LambdaStep337\obj\Debug\net5.0\LambdaStep337.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaStep337\LambdaStep337\obj\Debug\net5.0\LambdaStep337.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaStep337\LambdaStep337\obj\Debug\net5.0\LambdaStep337.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaStep337\LambdaStep337\obj\Debug\net5.0\ref\LambdaStep337.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaStep337\LambdaStep337\obj\Debug\net5.0\LambdaStep337.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\LambdaStep337\LambdaStep337\obj\Debug\net5.0\LambdaStep337.genruntimeconfig.cache
