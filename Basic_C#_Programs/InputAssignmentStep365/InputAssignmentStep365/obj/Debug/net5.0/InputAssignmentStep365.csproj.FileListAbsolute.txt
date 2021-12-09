@@ -1,0 +1,15 @@
+C:\Users\Engels Molina\source\repos\InputAssignmentStep365\InputAssignmentStep365\bin\Debug\net5.0\InputAssignmentStep365.exe
+C:\Users\Engels Molina\source\repos\InputAssignmentStep365\InputAssignmentStep365\bin\Debug\net5.0\InputAssignmentStep365.deps.json
+C:\Users\Engels Molina\source\repos\InputAssignmentStep365\InputAssignmentStep365\bin\Debug\net5.0\InputAssignmentStep365.runtimeconfig.json
+C:\Users\Engels Molina\source\repos\InputAssignmentStep365\InputAssignmentStep365\bin\Debug\net5.0\InputAssignmentStep365.runtimeconfig.dev.json
+C:\Users\Engels Molina\source\repos\InputAssignmentStep365\InputAssignmentStep365\bin\Debug\net5.0\InputAssignmentStep365.dll
+C:\Users\Engels Molina\source\repos\InputAssignmentStep365\InputAssignmentStep365\bin\Debug\net5.0\ref\InputAssignmentStep365.dll
+C:\Users\Engels Molina\source\repos\InputAssignmentStep365\InputAssignmentStep365\bin\Debug\net5.0\InputAssignmentStep365.pdb
+C:\Users\Engels Molina\source\repos\InputAssignmentStep365\InputAssignmentStep365\obj\Debug\net5.0\InputAssignmentStep365.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\source\repos\InputAssignmentStep365\InputAssignmentStep365\obj\Debug\net5.0\InputAssignmentStep365.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\source\repos\InputAssignmentStep365\InputAssignmentStep365\obj\Debug\net5.0\InputAssignmentStep365.AssemblyInfo.cs
+C:\Users\Engels Molina\source\repos\InputAssignmentStep365\InputAssignmentStep365\obj\Debug\net5.0\InputAssignmentStep365.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\source\repos\InputAssignmentStep365\InputAssignmentStep365\obj\Debug\net5.0\InputAssignmentStep365.dll
+C:\Users\Engels Molina\source\repos\InputAssignmentStep365\InputAssignmentStep365\obj\Debug\net5.0\ref\InputAssignmentStep365.dll
+C:\Users\Engels Molina\source\repos\InputAssignmentStep365\InputAssignmentStep365\obj\Debug\net5.0\InputAssignmentStep365.pdb
+C:\Users\Engels Molina\source\repos\InputAssignmentStep365\InputAssignmentStep365\obj\Debug\net5.0\InputAssignmentStep365.genruntimeconfig.cache

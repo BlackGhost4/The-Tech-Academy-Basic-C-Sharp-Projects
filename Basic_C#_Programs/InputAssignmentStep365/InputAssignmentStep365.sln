@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputAssignmentStep365", "InputAssignmentStep365\InputAssignmentStep365.csproj", "{EFEC8E8C-FFAC-4C21-90C5-08209CA21FB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFEC8E8C-FFAC-4C21-90C5-08209CA21FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEC8E8C-FFAC-4C21-90C5-08209CA21FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEC8E8C-FFAC-4C21-90C5-08209CA21FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEC8E8C-FFAC-4C21-90C5-08209CA21FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {120FC169-321D-484B-ADF4-B64F14C1E5A8}
+	EndGlobalSection
+EndGlobal
