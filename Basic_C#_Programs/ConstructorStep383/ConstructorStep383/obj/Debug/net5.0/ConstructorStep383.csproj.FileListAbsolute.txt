@@ -1,0 +1,16 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorStep383\ConstructorStep383\bin\Debug\net5.0\ConstructorStep383.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorStep383\ConstructorStep383\bin\Debug\net5.0\ConstructorStep383.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorStep383\ConstructorStep383\bin\Debug\net5.0\ConstructorStep383.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorStep383\ConstructorStep383\bin\Debug\net5.0\ConstructorStep383.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorStep383\ConstructorStep383\bin\Debug\net5.0\ConstructorStep383.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorStep383\ConstructorStep383\bin\Debug\net5.0\ref\ConstructorStep383.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorStep383\ConstructorStep383\bin\Debug\net5.0\ConstructorStep383.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorStep383\ConstructorStep383\obj\Debug\net5.0\ConstructorStep383.csproj.AssemblyReference.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorStep383\ConstructorStep383\obj\Debug\net5.0\ConstructorStep383.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorStep383\ConstructorStep383\obj\Debug\net5.0\ConstructorStep383.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorStep383\ConstructorStep383\obj\Debug\net5.0\ConstructorStep383.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorStep383\ConstructorStep383\obj\Debug\net5.0\ConstructorStep383.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorStep383\ConstructorStep383\obj\Debug\net5.0\ConstructorStep383.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorStep383\ConstructorStep383\obj\Debug\net5.0\ref\ConstructorStep383.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorStep383\ConstructorStep383\obj\Debug\net5.0\ConstructorStep383.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorStep383\ConstructorStep383\obj\Debug\net5.0\ConstructorStep383.genruntimeconfig.cache

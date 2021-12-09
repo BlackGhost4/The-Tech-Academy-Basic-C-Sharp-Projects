@@ -14,3 +14,6 @@ C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Pro
 C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\net5.0\TwentyOne.pdb
 C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\net5.0\TwentyOne.genruntimeconfig.cache
 C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\net5.0\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\net5.0\Casino.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\net5.0\Casino.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\net5.0\TwentyOne.csproj.CopyComplete
