@@ -21,7 +21,8 @@ namespace TwentyOne
             //The path must exist
             using (StreamWriter file = new StreamWriter(@"c:\logs\log.txt", true))
             {
-                file.Write(card);
+                file.WriteLine(DateTime.Now);
+                file.WriteLine(card);
             }
             Deck.Cards.RemoveAt(0);
         }
