@@ -9,4 +9,3 @@ C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Pro
 C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\net5.0\Casino.dll
 C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\net5.0\ref\Casino.dll
 C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\net5.0\Casino.pdb
-C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\Casino\obj\Debug\net5.0\Casino.csproj.AssemblyReference.cache
