@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="InsuranceModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Car_Makes">
+    <Key>
+      <PropertyRef Name="IdCarMake" />
+    </Key>
+    <Property Name="IdCarMake" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Make" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cars">
+    <Key>
+      <PropertyRef Name="IdCar" />
+    </Key>
+    <Property Name="IdCar" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Model" Type="nvarchar" MaxLength="50" />
+    <Property Name="IdCarMake" Type="int" Nullable="false" />
+    <Property Name="extraQuote" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Insurees">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="EmailAddress" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DateOfBirth" Type="datetime" Nullable="false" />
+    <Property Name="CarYear" Type="int" Nullable="false" />
+    <Property Name="DUI" Type="bit" Nullable="false" />
+    <Property Name="SpeedingTickets" Type="int" Nullable="false" />
+    <Property Name="CoverageType" Type="bit" Nullable="false" />
+    <Property Name="Quote" Type="money" Nullable="false" />
+    <Property Name="IdCar" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="fk_car_id">
+    <End Role="Cars" Type="Self.Cars" Multiplicity="1" />
+    <End Role="Insurees" Type="Self.Insurees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cars">
+        <PropertyRef Name="IdCar" />
+      </Principal>
+      <Dependent Role="Insurees">
+        <PropertyRef Name="IdCar" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_make_name">
+    <End Role="Car_Makes" Type="Self.Car_Makes" Multiplicity="1" />
+    <End Role="Cars" Type="Self.Cars" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Car_Makes">
+        <PropertyRef Name="IdCarMake" />
+      </Principal>
+      <Dependent Role="Cars">
+        <PropertyRef Name="IdCarMake" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="InsuranceModelStoreContainer">
+    <EntitySet Name="Car_Makes" EntityType="Self.Car_Makes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cars" EntityType="Self.Cars" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Insurees" EntityType="Self.Insurees" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="fk_car_id" Association="Self.fk_car_id">
+      <End Role="Cars" EntitySet="Cars" />
+      <End Role="Insurees" EntitySet="Insurees" />
+    </AssociationSet>
+    <AssociationSet Name="fk_make_name" Association="Self.fk_make_name">
+      <End Role="Car_Makes" EntitySet="Car_Makes" />
+      <End Role="Cars" EntitySet="Cars" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

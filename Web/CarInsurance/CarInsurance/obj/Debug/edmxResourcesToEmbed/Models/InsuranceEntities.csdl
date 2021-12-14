@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="InsuranceModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Insuree">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="EmailAddress" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DateOfBirth" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="CarYear" Type="Int32" Nullable="false" />
+    <Property Name="DUI" Type="Boolean" Nullable="false" />
+    <Property Name="SpeedingTickets" Type="Int32" Nullable="false" />
+    <Property Name="CoverageType" Type="Boolean" Nullable="false" />
+    <Property Name="Quote" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="IdCar" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Car" Relationship="InsuranceModel.fk_car_id" FromRole="Insuree" ToRole="Car" />
+  </EntityType>
+  <EntityContainer Name="InsuranceEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Insurees" EntityType="Self.Insuree" />
+    <EntitySet Name="Car_Makes" EntityType="InsuranceModel.Car_Makes" />
+    <EntitySet Name="Cars" EntityType="InsuranceModel.Car" />
+    <AssociationSet Name="fk_make_name" Association="InsuranceModel.fk_make_name">
+      <End Role="Car_Makes" EntitySet="Car_Makes" />
+      <End Role="Car" EntitySet="Cars" />
+    </AssociationSet>
+    <AssociationSet Name="fk_car_id" Association="InsuranceModel.fk_car_id">
+      <End Role="Car" EntitySet="Cars" />
+      <End Role="Insuree" EntitySet="Insurees" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Car_Makes">
+    <Key>
+      <PropertyRef Name="IdCarMake" />
+    </Key>
+    <Property Name="IdCarMake" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Make" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Cars" Relationship="InsuranceModel.fk_make_name" FromRole="Car_Makes" ToRole="Car" />
+  </EntityType>
+  <EntityType Name="Car">
+    <Key>
+      <PropertyRef Name="IdCar" />
+    </Key>
+    <Property Name="IdCar" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Model" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IdCarMake" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Car_Makes" Relationship="InsuranceModel.fk_make_name" FromRole="Car" ToRole="Car_Makes" />
+    <NavigationProperty Name="Insurees" Relationship="InsuranceModel.fk_car_id" FromRole="Car" ToRole="Insuree" />
+    <Property Name="extraQuote" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="fk_make_name">
+    <End Type="InsuranceModel.Car_Makes" Role="Car_Makes" Multiplicity="1" />
+    <End Type="InsuranceModel.Car" Role="Car" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Car_Makes">
+        <PropertyRef Name="IdCarMake" />
+      </Principal>
+      <Dependent Role="Car">
+        <PropertyRef Name="IdCarMake" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_car_id">
+    <End Type="InsuranceModel.Car" Role="Car" Multiplicity="1" />
+    <End Type="InsuranceModel.Insuree" Role="Insuree" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Car">
+        <PropertyRef Name="IdCar" />
+      </Principal>
+      <Dependent Role="Insuree">
+        <PropertyRef Name="IdCar" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

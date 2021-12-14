@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="InsuranceModelStoreContainer" CdmEntityContainer="InsuranceEntities">
+    <EntitySetMapping Name="Insurees">
+      <EntityTypeMapping TypeName="InsuranceModel.Insuree">
+        <MappingFragment StoreEntitySet="Insurees">
+          <ScalarProperty Name="IdCar" ColumnName="IdCar" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="CarYear" ColumnName="CarYear" />
+          <ScalarProperty Name="DUI" ColumnName="DUI" />
+          <ScalarProperty Name="SpeedingTickets" ColumnName="SpeedingTickets" />
+          <ScalarProperty Name="CoverageType" ColumnName="CoverageType" />
+          <ScalarProperty Name="Quote" ColumnName="Quote" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Car_Makes">
+      <EntityTypeMapping TypeName="InsuranceModel.Car_Makes">
+        <MappingFragment StoreEntitySet="Car_Makes">
+          <ScalarProperty Name="Make" ColumnName="Make" />
+          <ScalarProperty Name="IdCarMake" ColumnName="IdCarMake" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cars">
+      <EntityTypeMapping TypeName="InsuranceModel.Car">
+        <MappingFragment StoreEntitySet="Cars">
+          <ScalarProperty Name="extraQuote" ColumnName="extraQuote" />
+          <ScalarProperty Name="IdCarMake" ColumnName="IdCarMake" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="IdCar" ColumnName="IdCar" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
