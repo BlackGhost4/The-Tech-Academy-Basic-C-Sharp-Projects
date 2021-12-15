@@ -22,21 +22,6 @@ namespace CarInsurance.Controllers
             return View(db.Insurees.ToList());
         }
 
-        // GET: Insuree/Details/5
-        public ActionResult Details(int? id)
-        {
-            if (id == null)
-            {
-                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
-            }
-            Insuree insuree = db.Insurees.Find(id);
-            if (insuree == null)
-            {
-                return HttpNotFound();
-            }
-            return View(insuree);
-        }
-
         // GET: Insuree/Create
         public ActionResult Create()
         {
@@ -69,12 +54,22 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
-                
-                //db.Insurees.Add(insuree);
-                //db.SaveChanges();
+                Insuree insuree = new Insuree();
+                insuree.Id = insureevm.Id;
+                insuree.FirstName = insureevm.FirstName;
+                insuree.LastName = insureevm.LastName;
+                insuree.EmailAddress = insureevm.EmailAddress;
+                insuree.DateOfBirth = insureevm.DateOfBirth;
+                insuree.CarYear = insureevm.CarYear;
+                insuree.DUI = insureevm.DUI;
+                insuree.SpeedingTickets = insureevm.SpeedingTickets;
+                insuree.CoverageType = insureevm.CoverageType;
+                insuree.Quote = insureevm.Quote;
+                insuree.IdCar = insureevm.IdCar;
+                db.Insurees.Add(insuree);
+                db.SaveChanges();
                 return RedirectToAction("Index");
             }
-
             return View(insureevm);
         }
 
@@ -163,8 +158,6 @@ namespace CarInsurance.Controllers
         {
             try
             {
-                //JsonResult jsonResult = new JsonResult();
-                string data = "";
                 ParametersQuoteJsonVM parametersJson = JsonConvert.DeserializeObject<ParametersQuoteJsonVM>(jsonInput);
                 ParametersQuoteVM parameters = new ParametersQuoteVM(parametersJson);
                 FinalQuoteVM finalQuote = new FinalQuoteVM();
@@ -207,33 +200,7 @@ namespace CarInsurance.Controllers
                     finalQuote.quoteByCoverageTotal = Decimal.Multiply(finalQuote.quoteMonthly, 0.5M);
                     finalQuote.quoteMonthly += finalQuote.quoteByCoverageTotal;
                 }
-
-                //data = "{ \"Success\":\"true\", \"Data\":{ " +
-                //    "\"quoteMonthly\":\"" + finalQuote.quoteMonthly + "\", " +
-                //    "\"quoteByAge\":\"" + finalQuote.quoteByAge + "\", " +
-                //    "\"quoteByCarYear\":\"" + finalQuote.quoteByCarYear + "\", " +
-                //    "\"quoteBySpeedingTickets\":\"" + finalQuote.quoteBySpeedingTickets + "\", " +
-                //    "\"quoteByCarModel\":\"" + finalQuote.quoteExtra + "\", " +
-                //    "\"quoteByDUI\":\"" + finalQuote.quoteByDUI + "\", " +
-                //    "\"quoteByCoverageTotal\":\"" + finalQuote.quoteByCoverageTotal + "\" } }";
-                //return this.Json(JsonConvert.SerializeObject(data), JsonRequestBehavior.AllowGet);
                 return Json(finalQuote, JsonRequestBehavior.AllowGet);
-
-
-                //return Json(new
-                //{
-                //    Success = "true",
-                //    Data = new
-                //    {
-                //        quoteMonthly = quoteMonthly,
-                //        quoteByAge = quoteByAge,
-                //        quoteByCarYear = quoteByCarYear,
-                //        quoteBySpeedingTickets = quoteBySpeedingTickets,
-                //        quoteByCarModel = parameters.ExtraQuote,
-                //        quoteByDUI = quoteByDUI,
-                //        quoteByCoverageTotal = quoteByCoverageTotal
-                //    }
-                //}, JsonRequestBehavior.AllowGet); ;
             }catch (Exception ex)
             {
                 return Json(new { Success = "false" }, JsonRequestBehavior.AllowGet);

@@ -161,8 +161,9 @@
         </div>
     </div>
 }
+<br /><br />
 <div>
-    @Html.ActionLink("Back to List", "Index")
+    <a href="javascript:history.back()">Return</a>
 </div>
 
 @section Scripts
@@ -221,14 +222,6 @@
                 CoverageType: aCoverageType,
                 ExtraQuote: aExtraQuote
             };
-            //var jsonInput = {
-            //    DateOfBirth: "12/02/1980",
-            //    CarYear: 2000,
-            //    SpeedingTickets: 1,
-            //    DUI: true,
-            //    CoverageType: false,
-            //    ExtraQuote: 0
-            //};
             $.ajax({
                 url: '/Insuree/GetTotalQuote',
                 type: "GET",
