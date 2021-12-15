@@ -80,3 +80,4 @@ C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Pro
 C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Web\CarInsurance\CarInsurance\obj\Debug\CarInsurance.csproj.CopyComplete
 C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Web\CarInsurance\CarInsurance\obj\Debug\CarInsurance.dll
 C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Web\CarInsurance\CarInsurance\obj\Debug\CarInsurance.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\Web\CarInsurance\CarInsurance\obj\Debug\CarInsurance.csproj.AssemblyReference.cache

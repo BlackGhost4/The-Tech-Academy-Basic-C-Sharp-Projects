@@ -10,7 +10,7 @@ namespace CarInsurance.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            return RedirectToAction("Index", "Insuree");
         }
 
         public ActionResult About()

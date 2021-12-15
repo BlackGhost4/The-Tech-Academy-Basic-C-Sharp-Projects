@@ -8,6 +8,7 @@ using System.Web;
 using System.Web.Mvc;
 using CarInsurance.Models;
 using CarInsurance.ViewModels;
+using Newtonsoft.Json;
 
 namespace CarInsurance.Controllers
 {
@@ -64,16 +65,17 @@ namespace CarInsurance.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
+        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,DUI,SpeedingTickets,CoverageType,Quote,IdCar,ExtraQuote")] InsureeVM insureevm)
         {
             if (ModelState.IsValid)
             {
-                db.Insurees.Add(insuree);
-                db.SaveChanges();
+                
+                //db.Insurees.Add(insuree);
+                //db.SaveChanges();
                 return RedirectToAction("Index");
             }
 
-            return View(insuree);
+            return View(insureevm);
         }
 
         // GET: Insuree/Edit/5
@@ -153,6 +155,88 @@ namespace CarInsurance.Controllers
             else
             {
                 return Json(new { Success = "true", Data = new { extraQuote = 0 } }, JsonRequestBehavior.AllowGet);
+            }
+        }
+
+        [HttpGet]
+        public ActionResult GetTotalQuote(string jsonInput)
+        {
+            try
+            {
+                //JsonResult jsonResult = new JsonResult();
+                string data = "";
+                ParametersQuoteJsonVM parametersJson = JsonConvert.DeserializeObject<ParametersQuoteJsonVM>(jsonInput);
+                ParametersQuoteVM parameters = new ParametersQuoteVM(parametersJson);
+                FinalQuoteVM finalQuote = new FinalQuoteVM();
+
+                finalQuote.quoteMonthly = 0;
+                finalQuote.quoteByAge = 0;
+                finalQuote.quoteByCarYear = 0;
+                finalQuote.quoteBySpeedingTickets = (parameters.SpeedingTickets > 0 ? (parameters.SpeedingTickets * 10) : 0);
+                finalQuote.quoteByDUI = 0;
+                finalQuote.quoteByCoverageTotal = 0;
+                finalQuote.quoteByCarModel = parameters.ExtraQuote;
+
+                int age = DateTime.Today.AddTicks(parameters.DateOfBirth.Ticks * -1).Year - 1;
+                if (age <= 18)
+                {
+                    finalQuote.quoteByAge = 100;
+                }
+                else if (age >= 19 && age <= 25)
+                {
+                    finalQuote.quoteByAge = 50;
+                }
+                else
+                {
+                    finalQuote.quoteByAge = 25;
+                }
+
+                if (parameters.CarYear < 2000 || parameters.CarYear > 2015)
+                {
+                    finalQuote.quoteByCarYear = 25;
+                }
+
+                finalQuote.quoteMonthly = finalQuote.quoteByAge + finalQuote.quoteByCarYear + finalQuote.quoteBySpeedingTickets + finalQuote.quoteByCarModel;
+                if (parameters.DUI == true)
+                {
+                    finalQuote.quoteByDUI = Decimal.Multiply(finalQuote.quoteMonthly, 0.25M);
+                    finalQuote.quoteMonthly += finalQuote.quoteByDUI;
+                }
+                if (parameters.CoverageType == true)
+                {
+                    finalQuote.quoteByCoverageTotal = Decimal.Multiply(finalQuote.quoteMonthly, 0.5M);
+                    finalQuote.quoteMonthly += finalQuote.quoteByCoverageTotal;
+                }
+
+                //data = "{ \"Success\":\"true\", \"Data\":{ " +
+                //    "\"quoteMonthly\":\"" + finalQuote.quoteMonthly + "\", " +
+                //    "\"quoteByAge\":\"" + finalQuote.quoteByAge + "\", " +
+                //    "\"quoteByCarYear\":\"" + finalQuote.quoteByCarYear + "\", " +
+                //    "\"quoteBySpeedingTickets\":\"" + finalQuote.quoteBySpeedingTickets + "\", " +
+                //    "\"quoteByCarModel\":\"" + finalQuote.quoteExtra + "\", " +
+                //    "\"quoteByDUI\":\"" + finalQuote.quoteByDUI + "\", " +
+                //    "\"quoteByCoverageTotal\":\"" + finalQuote.quoteByCoverageTotal + "\" } }";
+                //return this.Json(JsonConvert.SerializeObject(data), JsonRequestBehavior.AllowGet);
+                return Json(finalQuote, JsonRequestBehavior.AllowGet);
+
+
+                //return Json(new
+                //{
+                //    Success = "true",
+                //    Data = new
+                //    {
+                //        quoteMonthly = quoteMonthly,
+                //        quoteByAge = quoteByAge,
+                //        quoteByCarYear = quoteByCarYear,
+                //        quoteBySpeedingTickets = quoteBySpeedingTickets,
+                //        quoteByCarModel = parameters.ExtraQuote,
+                //        quoteByDUI = quoteByDUI,
+                //        quoteByCoverageTotal = quoteByCoverageTotal
+                //    }
+                //}, JsonRequestBehavior.AllowGet); ;
+            }catch (Exception ex)
+            {
+                return Json(new { Success = "false" }, JsonRequestBehavior.AllowGet);
             }
         }
     }

@@ -15,6 +15,7 @@ namespace CarInsurance.ViewModels
         public string EmailAddress { get; set; }
 
         [Required(ErrorMessage = "Date of birth is required.")]
+        [DisplayFormat(DataFormatString = "{0:MM/dd/yyyy}", ApplyFormatInEditMode = true)]
         public System.DateTime DateOfBirth { get; set; }
 
         public int CarYear { get; set; }
@@ -23,7 +24,7 @@ namespace CarInsurance.ViewModels
         public bool CoverageType { get; set; }
         public decimal Quote { get; set; }
         public int IdCar { get; set; }
-        public decimal ExtraQuote { get; set; }
+        public int ExtraQuote { get; set; }
         public List<SelectListItem> CarMakes { get; set; }
     }
 }
