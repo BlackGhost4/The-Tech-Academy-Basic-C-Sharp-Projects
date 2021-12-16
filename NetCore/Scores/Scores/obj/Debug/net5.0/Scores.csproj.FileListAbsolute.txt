@@ -1,0 +1,16 @@
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\NetCore\Scores\Scores\bin\Debug\net5.0\Scores.exe
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\NetCore\Scores\Scores\bin\Debug\net5.0\Scores.deps.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\NetCore\Scores\Scores\bin\Debug\net5.0\Scores.runtimeconfig.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\NetCore\Scores\Scores\bin\Debug\net5.0\Scores.runtimeconfig.dev.json
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\NetCore\Scores\Scores\bin\Debug\net5.0\Scores.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\NetCore\Scores\Scores\bin\Debug\net5.0\ref\Scores.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\NetCore\Scores\Scores\bin\Debug\net5.0\Scores.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\NetCore\Scores\Scores\obj\Debug\net5.0\Scores.csproj.AssemblyReference.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\NetCore\Scores\Scores\obj\Debug\net5.0\Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\NetCore\Scores\Scores\obj\Debug\net5.0\Scores.AssemblyInfoInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\NetCore\Scores\Scores\obj\Debug\net5.0\Scores.AssemblyInfo.cs
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\NetCore\Scores\Scores\obj\Debug\net5.0\Scores.csproj.CoreCompileInputs.cache
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\NetCore\Scores\Scores\obj\Debug\net5.0\Scores.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\NetCore\Scores\Scores\obj\Debug\net5.0\ref\Scores.dll
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\NetCore\Scores\Scores\obj\Debug\net5.0\Scores.pdb
+C:\Users\Engels Molina\Documents\Repositorios\The-Tech-Academy-Basic-C-Sharp-Projects\NetCore\Scores\Scores\obj\Debug\net5.0\Scores.genruntimeconfig.cache

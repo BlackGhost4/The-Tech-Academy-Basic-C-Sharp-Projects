@@ -22,6 +22,7 @@ namespace ParsingEnumsStep324
         ******************************************************************************************/
         static void Main(string[] args)
         {
+            DateTime date = null;
             DaysOfWeek daysOfWeek;
             string value = "";
             do
