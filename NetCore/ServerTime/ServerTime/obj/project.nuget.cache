@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J8HjYPy8SfLKJ16HaWk6o0L0RtkP2HUzp8wydb3rSnklQkET2zCgLnTaaI3fiYhrfndraL2xuqXzp69fyy8WrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Engels Molina\\Documents\\Repositorios\\The-Tech-Academy-Basic-C-Sharp-Projects\\NetCore\\ServerTime\\ServerTime\\ServerTime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Engels Molina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

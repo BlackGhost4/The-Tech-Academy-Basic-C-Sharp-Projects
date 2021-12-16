@@ -1,0 +1,21 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Server Time";
+}
+
+<row>
+    <div class="col-sm-6">
+        <div class="text-center">
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h1 class="card-title">Actual Server Time</h1>
+                    <h2 style="color: blue;">@DateTime.Now</h2>
+                </div>
+                <div class="card-footer text-muted">
+                    by Engels
+                </div>
+            </div>
+        </div>
+    </div>
+</row>

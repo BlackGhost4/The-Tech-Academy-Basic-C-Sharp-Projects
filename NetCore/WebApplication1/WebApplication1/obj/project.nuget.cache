@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hUlcRbBIX0jme7iCWicZh/IbbQa8DSU4WPrPHUlLbRQRDbPMpNF3H8ngvYWI/LFHwblxc9yDSdTX7qFUTL7NDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Engels Molina\\Documents\\Repositorios\\The-Tech-Academy-Basic-C-Sharp-Projects\\NetCore\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Engels Molina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
