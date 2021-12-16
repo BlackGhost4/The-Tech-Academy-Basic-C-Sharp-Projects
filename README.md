@@ -4,8 +4,8 @@ This repository will contain all the exercises of the C # and .NET course.
 ## Projects
 
 * **[Basic_C#_Programs](https://github.com/BlackGhost4/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs)**
-* **NetCore[NetCore](https://github.com/BlackGhost4/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/NetCore)**
-* **Web[Web](https://github.com/BlackGhost4/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Web)**
+* **[NetCore](https://github.com/BlackGhost4/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/NetCore)**
+* **[Web](https://github.com/BlackGhost4/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Web)**
 
 ### Basic_C#_Programs
 
